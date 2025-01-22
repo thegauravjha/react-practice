@@ -30,11 +30,17 @@ This repository will include:
     
 
 📂 Directory Structure
-----------------------
-
 The repository is loosely organized as:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   plaintextCopyEditreact-practice/  ├── src/  │   ├── components/    # All the random components I practice  │   ├── hooks/         # Custom hooks  │   ├── pages/         # Pages for routing examples  │   └── App.js         # Main entry point  ├── public/            # Static files  ├── package.json       # Project setup and dependencies  └── README.md          # This file   `
+react-practice/
+├── src/
+│   ├── components/    # All the random components I practice
+│   ├── hooks/         # Custom hooks
+│   ├── pages/         # Pages for routing examples
+│   └── App.js         # Main entry point
+├── public/            # Static files
+├── package.json       # Project setup and dependencies
+└── README.md          # This file
 
 🚀 How to Use
 -------------
