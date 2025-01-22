@@ -32,10 +32,6 @@ This repository will include:
 
 The repository is loosely organized as:
 
-plaintext
-
-CopyEdit
-
 `react-practice/
 ├── src/
 │   ├── components/    # All the random components I practice
@@ -45,35 +41,19 @@ CopyEdit
 ├── public/            # Static files
 ├── package.json       # Project setup and dependencies
 └── README.md          # This file`
-
 * * * * *
 
 🚀 How to Use
 -------------
 
 1.  Clone the repository:
-
-    bash
-
-    CopyEdit
-
     `git clone https://github.com/your-username/react-practice.git
     cd react-practice`
 
 2.  Install dependencies:
-
-    bash
-
-    CopyEdit
-
     `npm install`
 
 3.  Start the development server:
-
-    bash
-
-    CopyEdit
-
     `npm start`
 
 * * * * *
@@ -81,7 +61,7 @@ CopyEdit
 🤝 Contributions
 ----------------
 
-This is a personal project, but feel free to explore or suggest improvements! 😊
+This is a personal practice code, but feel free to explore or suggest improvements! 😊
 
 * * * * *
 
